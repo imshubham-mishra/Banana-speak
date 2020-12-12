@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+body{
+    font-family: 'Castoro', serif;
+    background-image: url('images/minion.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    display: block;
+    text-align: center;
+}
+
+textarea{
+    text-align: center;
+    display: block;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing:unset;
+    background-color:#FED7AA;
+}
+#output {
+    display: block;
+     background-color:#FED7AA;
+    border: 1px solid black;
+    padding: 1rem;
+    height: 14vh;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+#btn-translate{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+    font-size: 4vh;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: crimson;
+}
+h2{
+    background-color: darkcyan;
+    width: 30%;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+    background-color: crimson;
+    width: 30%;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#placeholder{
+    height: 4px;
+}
