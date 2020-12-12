@@ -57,3 +57,14 @@ h1{
     margin-left: auto;
     margin-right: auto;
 }
+p{
+    /* text-decoration:none; */
+    background-color:#2563EB ;
+    font-size: large;
+    width: 70%;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+}
