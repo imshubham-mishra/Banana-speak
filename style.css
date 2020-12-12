@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
 body{
     font-family: 'Castoro', serif;
-    background-image: url('images/minion.jpg');
+    background-image:url('images/minion.jpg');
     background-attachment: fixed;
     background-size: cover;
     display: block;
     text-align: center;
     width:100%;
-    height: auto;
+    /* height: auto; */
 }
 
 textarea{
@@ -67,4 +67,8 @@ p{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 0%;
+}
+image{
+    width:100%;
+    height: 400px;
 }
